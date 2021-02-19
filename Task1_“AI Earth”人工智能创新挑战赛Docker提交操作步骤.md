@@ -146,8 +146,8 @@ make_zip()
   - 使用Dockerfile创建Docker镜像时，总是出现python安装包timeout的问题，在`pip install --timeout=600 `参数后仍然无法解决问题。后期采用，先创建基础image，在手工安装python包的方式解决问题。
 
   - 在运行完`From`命令后，出现了一个如下的image文件，不知道是什么原因。下图中标红色的地方
-
-    ![image-20210218194518132](C:\Users\quxc\AppData\Roaming\Typora\typora-user-images\image-20210218194518132.png)
+    
+    
 
     
 
